@@ -1,1 +1,1 @@
-# kushi-rep
+# kushi-repo
